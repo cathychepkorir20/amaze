@@ -1,0 +1,41 @@
+form{
+    background-color: lightblue;
+    width: 85%;
+    height: 500px;
+    margin: auto;
+    padding-left: 30px;
+    border-radius: 10px;
+}
+
+legend{
+    text-align: center;
+    font-size: 150%;
+    font-family: C059;
+    font-weight: bold;
+}
+
+input[type=date], input[type=text]{
+    width: 50%;
+    height: auto;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+label{
+    width: 150px;
+    display: inline-block;
+}
+
+
+
+button{
+    background-color: plum;
+    width: 100px;
+    height: 90px;
+}
+button:hover{
+    background-color: aquamarine;
+}
+
+body{ background-color: deepskyblue
+}

@@ -1,0 +1,35 @@
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+img{
+    width: 70%;
+    height: 300px;
+}
+
+.division1{
+    background-color: white;
+    display:flex;
+}
+.division2{
+    background-color: white;
+     display:flex;
+}
+.division3{
+    background-color: white;
+     display:flex;
+}
+img{
+    width:200px;
+    height:200px
+}
+#main{
+    background-color: black;
+    padding-top: 30px;
+}
+
+
+.imageparagraph{
+    display:flex;
+    padding-left: 20px;
+}
